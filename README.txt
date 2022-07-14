@@ -1,4 +1,4 @@
-<h1 align="center"> Sistema de Proejetos (POO JAVA) </h1>
+>>> Sistema de Proejetos (POO JAVA) <<<
 
 Funções implementadas:
 - Login
